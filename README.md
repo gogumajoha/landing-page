@@ -1,2 +1,2 @@
-# kpop-deploy
-kpop-deploy
+# landing-page
+landing-page
